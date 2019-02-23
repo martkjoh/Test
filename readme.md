@@ -10,4 +10,4 @@ Jeg har fortsatt litt å prøve ut. Hva skjer hvis jeg gjør noe som strider imo
 
 Dette er faktisk skrevet fra en ny brach. Jeg har bare tenk å gjøre noen små endringer på filen her. Ikke noe `fancy`.
 
-Sammtidig skriver jeg også rett i master.
+Sammtidig skriver jeg også rett i master. Dette var en spennende idé, jeg skriver på en anne branch der jeg startet på master.
