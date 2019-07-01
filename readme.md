@@ -14,6 +14,5 @@ Sammtidig skriver jeg også rett i master. Dette var en spennende idé, jeg skri
 
 ### Mattetest:
 
-\[1 + 1\]
-\\[1 + 1\\]
-[; 1+1 ;]
+$$1 + 1$$
+$ 1+1 $$
